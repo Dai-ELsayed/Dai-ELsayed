@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+Engineer;Machine+Learning+%7C+NLP+%7C+Computer+Vision;LLMs+%7C+LangChain+%7C+Vector+DBs;Always+learning+and+building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+Engineer;ML+%7C+NLP+%7C+CV;LLMs+%7C+LangChain+%7C+Vector+DBs;Always+learning+and+building!" alt="Typing SVG" />
 </p>
 
 ---
