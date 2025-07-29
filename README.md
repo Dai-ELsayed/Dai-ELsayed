@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Dai-ELsayed </h1>
 <h3 align="center">AI Engineer | Data Scientist | Data Analyst </h3>
 
@@ -13,12 +13,11 @@
 
 ### 💫 About Me
 
-- 🎓 AI Graduate from **Faculty of Computers and Artificial Intelligence, Benha University**  
-- 💼 Currently: **AI Instructor @ NTI**  
-- 💻 Former: AI Engineer @ OUTLIER | Trainee @ Orange Innovation & Zewail City | Freelance AI Project Planner
-- 💡 Passionate about solving real-world problems using AI  
-- 📈 Skilled in: Python, SQL, LLMs, RAG, NLP, CV, ETL, Power BI, and more  
-- 🔭 I’m currently building educational AI tools and helping students structure AI projects  
+- AI Graduate from **Faculty of Computers and Artificial Intelligence, Benha University**  
+- Currently: **AI Instructor @ NTI**  
+- Former: AI Engineer @ OUTLIER | Trainee @ Orange Innovation & Zewail City | Freelance AI Project Planner
+- Passionate about solving real-world problems using AI  
+- Skilled in: Python, SQL, LLMs, RAG, NLP, CV, ETL, Power BI, and more   
 - 📫 Reach me: **daielsaied95@gmail.com**
 
 ---
@@ -71,7 +70,7 @@
 ### 💡 Fun Quote
 
 > “AI won’t replace you, but a person using AI will.”  
-> *— Stay curious and keep building 🚀*
+> *— Stay curious and keep building *
 
 
 <!--
